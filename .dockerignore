@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log*
+.env
+.env.*
+!.env.example
+!.env.production.example
+!.env.test.example
+.git/
+.gitignore
+logs/
+uploads/
+.uploads-test/
+coverage/
+tests/
+*.log
+.DS_Store
