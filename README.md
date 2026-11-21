@@ -24,7 +24,7 @@ Proyecto correspondiente a las pre-entregas de los módulos 1, 2, 3, 4, 5, 6, 7 
 1. Clonar el repositorio e ingresar a su directorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone [URL_DEL_REPOSITORIO](https://github.com/Agustin-Zacarias/Backend-III-Preentrega-N8---Agustin-Zacarias)
 cd shipnow-api
 ```
 
